@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myscope</string>
+    <string name="banner">здравствуй! выбери свой знак зодиака...</string>
+    <string name="signName">гороскоп на сегодня для знака -</string>
+    <string name="color">цвет дня -</string>
+    <string name="number">число дня -</string>
+    <string name="mood">настроение -</string>
+    <string name="time">счастливое время -</string>
+    <string name="description">описание -</string>
+</resources>
